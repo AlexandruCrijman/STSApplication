@@ -4,4 +4,11 @@
     <dimen name="activity_vertical_margin">16dp</dimen>
     <dimen name="margin_buttons">80dp</dimen>
     <dimen name="margin_buttons_middle">15dp</dimen>
+
+
+
+    <dimen name="image_top_AboutActivy">160dp</dimen>
+    <dimen name="paddingLeftTextAbout">76dp</dimen>
+    <dimen name="paddingRightTextAbout">16dp</dimen>
+    <dimen name="paddingTopBottomTextAbout">16dp</dimen>
 </resources>

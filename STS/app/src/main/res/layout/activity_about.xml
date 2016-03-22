@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.alexandru.stsapplication.AboutActivity">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/image_top_AboutActivy"
+        android:id="@+id/imageView"
+        android:layout_gravity="center_horizontal"
+         android:background="@android:color/holo_green_light"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="65sp"
+        android:text="About Serile Teatrului Studentesc"
+        android:background="@android:color/holo_blue_bright"
+        style="@style/TitleAbout" />
+
+
+   <ScrollView
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       android:layout_gravity="start">
+
+       <TextView
+           android:layout_width="match_parent"
+           android:layout_height="match_parent"
+           android:paddingLeft="@dimen/paddingLeftTextAbout"
+           android:paddingRight="@dimen/paddingRightTextAbout"
+           android:paddingTop="@dimen/paddingTopBottomTextAbout"
+           android:paddingBottom="@dimen/paddingTopBottomTextAbout"
+          android:textAlignment="viewStart"
+           android:layout_gravity="start"
+           android:text="@string/textAbout"
+           />
+
+
+
+   </ScrollView>
+
+
+
+</LinearLayout>

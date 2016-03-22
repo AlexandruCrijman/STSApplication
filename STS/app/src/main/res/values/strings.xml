@@ -2,4 +2,11 @@
     <string name="app_name">STSApplication</string>
     <string name="despre">Despre</string>
     <string name="program">Program</string>
+    <string name="textAbout">Lorem ipsum dolor sit amet, velit ante cubilia. Semper mauris arcu. \n\n
+        Tristique ut, urna mollis gravida. Augue cras velit. Lacus dolor pede. Mattis nunc sodales, lorem proin. A rhoncus nascetur, pellentesque rutrum. Cum nisl.
+        Magna eu sodales, aliquet augue, rutrum donec. Ipsum et vel, cras semper arcu. Ducimus lectus. Ligula pulvinar per, sociosqu eget. Nullam odio odio, eu augue felis.
+        Pellentesque et. Sodales dui id, pede ante. Lobortis mollis rutrum. Vehicula in mi, tempus non faucibus, dictumst vestibulum varius. Volutpat mus. Amet lorem. \n\n
+        Quisque lorem, et placerat, proin facilisis. Donec praesent, mauris turpis. Rhoncus vulputate a, massa in enim. Platea ut, morbi odio, arcu at sollicitudin. \n\n
+        Eros eu, consectetuer placerat, dolor aliquam. Quis ultrices sit, aliquam urna. Varius nullam, volutpat ante sed, massa sodales. Orci massa, ac class maecenas.
+        Auctor lacus. Eu gravida. Et nulla amet.</string>
 </resources>
